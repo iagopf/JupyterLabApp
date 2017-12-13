@@ -1,5 +1,0 @@
-#!/bin/sh
-osascript -e 'tell app "Terminal"
-    do script "jupyter lab"
-end tell'
-
